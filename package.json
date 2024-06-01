@@ -4,7 +4,8 @@
   "description": "Welcome to the Tailwind project 1 repository! This project showcases the power and flexibility of Tailwind CSS for building modern, responsive web interfaces. This specific project will basically focus on building a login form project.",
   "main": "index.js",
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "build": "vite build"
   },
   "keywords": [],
   "author": "",
